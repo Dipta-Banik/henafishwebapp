@@ -65,7 +65,7 @@ export default function AboutView() {
       >
         <div className="relative rounded-3xl overflow-hidden aspect-[4/3] shadow-2xl order-2 md:order-1">
           <img 
-            src="src/images/image.jpg" 
+            src="https://img.freepik.com/premium-photo/top-view-variety-fresh-fish-seafood-ice_126277-744.jpg?semt=ais_hybrid&w=740&q=80" 
             alt="Hena Fish Suppliers Shop" 
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
