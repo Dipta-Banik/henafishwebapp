@@ -60,7 +60,7 @@ export default function WelcomeSection({ onViewCategories }: WelcomeSectionProps
           className="absolute -right-12 -bottom-12 w-[500px] h-[500px] select-none pointer-events-none grayscale contrast-125 drop-shadow-2xl"
         >
           <img 
-            src="/images/square-image (2).jpg" 
+            src="https://www.shutterstock.com/image-vector/black-white-koi-fish-illustration-600nw-2715664665.jpg" 
             alt="Fish Watermark" 
             className="w-full h-full object-contain"
             referrerPolicy="no-referrer"
