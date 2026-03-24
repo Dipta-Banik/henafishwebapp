@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/71eecf16-e130-4ec7-8b35-81d60
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# henafishwebapp
