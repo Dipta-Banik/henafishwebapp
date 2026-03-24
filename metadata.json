@@ -1,0 +1,5 @@
+{
+  "name": "Hena Fish Suppliers",
+  "description": "Premium seafood and grocery quick delivery marketplace.",
+  "requestFramePermissions": ["geolocation"]
+}
